@@ -1,0 +1,7 @@
+dark: 13181B;
+header-color: E6E6E6;
+header-active-color: D2FF00;
+header-font-size: 20;
+yealow: D2FF00;
+yalow-opacity: 70%
+
